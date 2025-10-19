@@ -1,7 +1,3 @@
-Claro! Aqui está um modelo de **README.md** pronto para você usar no GitHub para esse projeto Arduino que consome uma API e controla portas digitais 👇
-
----
-
 ````markdown
 # 🌐 Arduino + API REST — Controle de Portas Digitais
 
